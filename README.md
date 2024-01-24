@@ -3,7 +3,13 @@
 
 ## 使い方の練習
 
-vscodeで編集しました
+vscodeで編集しまし
+
+
+
+
+これは練習です
+
 aaaaa
 sssss
 
