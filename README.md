@@ -4,3 +4,5 @@
 ## 使い方の練習
 
 vscodeで編集しました
+aaaaa
+sssss
